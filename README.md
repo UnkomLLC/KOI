@@ -10,3 +10,4 @@
 // No Private Sales
 // No Venture Capital Fundings
 // Howie Tested
+// DAML Smart Contract Language
