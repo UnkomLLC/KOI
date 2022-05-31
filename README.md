@@ -4,6 +4,8 @@
 // Provides Miners ability to still recieve profits without joining a pool further decentrilizing the network
 // Portion of block rewards go to node operators provided their nodes stay connected for a dedicated period of time.
 // ASIC / FPGA Resistant GPU Only
+// 1 Billion total supply
+// 4 year block reward halving schedule cycle on par with bitcoin
 // No ICO
 // No Initial Exchange Offerings
 // No U.S.A. Sales
