@@ -6,6 +6,8 @@
 // ASIC / FPGA Resistant GPU Only
 // 1 Billion total supply
 // 4 year block reward halving schedule cycle on par with bitcoin
+// 50 - 100 Years of mining
+// Considering utilizing stoage rent smart contracts for tokens to be locked up in order to keep miners incentivised to provide infustructure after mining is complete
 // No ICO
 // No Initial Exchange Offerings
 // No U.S.A. Sales
